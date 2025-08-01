@@ -31,7 +31,7 @@ A web-based real-time speech-to-text app that performs live **sentiment analysis
 ## 📦 Setup Instructions
 link for cloning:-
 git clone https://github.com/aryaraul/Voiceswift.git
-cd real-time-sentiment-analyzer
+cd Voiceswift
 
 after Cloning files from my github.
 Install node modules and use node.js for backend saving.
